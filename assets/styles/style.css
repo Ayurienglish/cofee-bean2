@@ -178,7 +178,7 @@ p,li,td,th,label{
 .merch{
   width: 85%;
   margin: 4em auto;
-  border: 2px solid black;
+  /* border: 2px solid black; */
 }
 
 .section-header{
@@ -406,18 +406,18 @@ form input[type="submit"]{
     background-position: center;
     padding-top: 2em;
     padding-bottom: 2em;
-    border: 1px solid palegreen;
+    /* border: 1px solid palegreen; */
 }
 
 .footer-contents {
     width: 85%;
     margin: auto;
     overflow: auto;
-    border: 1px solid white;
+    /* border: 1px solid white; */
 }
 
 .footer-widgets{
-    border: 1px solid white;
+    /* border: 1px solid white; */
     float: left;
     margin-right: 1%;
     width: 24.25%;
